@@ -1,4 +1,4 @@
-Project Overview:This project is a fun and quirky platform where users can explore and contribute to a collection of utterly pointless yet oddly fascinating gadgets. The list varies for each user based on preferences, submissions, or popularity.
+Project Overview: This project is a fun and quirky platform where users can explore and contribute to a collection of utterly pointless yet oddly fascinating gadgets. The list varies for each user based on preferences, submissions, or popularity.
 
 Key Features: User Authentication Each user can create an account and log in to personalize their experience. Personalized Lists
 
