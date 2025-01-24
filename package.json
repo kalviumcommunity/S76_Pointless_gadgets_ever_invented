@@ -1,0 +1,15 @@
+{
+  "name": "s76_pointless_gadgets_ever_invented",
+  "version": "1.0.0",
+  "description": "List of the most pointless gadgets ever invented",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshad",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
